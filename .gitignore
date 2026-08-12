@@ -1,0 +1,39 @@
+# ---------------------------------------------------------------------------
+# Generated Kurucz outputs.
+# The delivered dataset is ~36 GB and is distributed via Zenodo, not here.
+# ---------------------------------------------------------------------------
+Kurucz-data/
+Kurucz-data-*/
+Kurucz/
+Kurucz-*/
+Nist-temp-data/
+test-out/
+
+# Run outputs, backups and handoff snapshots
+reports/
+backup-*/
+handoff-*/
+
+# Dissertation sources are kept outside this repository
+essay/
+essay-overleaf/
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Local logs
+*.log
+
+# Superseded repository, kept locally only
+.git-old-*/
+
+# Smoke-test outputs
+reports-smoke/
+
+# Presentation material generators -- kept locally, not part of the pipeline
+make_ppt.py
+make_ppt_en.py
+make_report.py
+make_script_docx.js

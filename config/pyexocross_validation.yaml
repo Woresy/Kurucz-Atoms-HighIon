@@ -1,0 +1,28 @@
+# Paths are intentionally relative and may be overridden on the CLI.
+input_root: Kurucz-Nist-Overlap-data
+output_root: reports
+pyexocross_mode: public_python_api
+chunk_size: 250000
+selected_ions:
+  - Sc-III
+temperature_grid: data_aware_low_mid_high
+tolerances:
+  enforce_g_relation: true
+  wavenumber_absolute_cm1: 0.5
+  wavenumber_relative: 1.0e-5
+  pf_monotonic_rtol: 1.0e-8
+spectrum:
+  range_cm-1: [1000.0, 100000.0]
+  mode: Ab
+  wavelength_medium: vacuum
+cross_section:
+  profile: Gaussian
+  pressure_bar: 0.0
+  bin_size_cm-1: 0.2
+  cutoff_cm-1: null
+  output_unit: cm2/molecule
+  classification: exploratory / format-validation result
+plotting:
+  format: png
+  dpi: 160
+strictness: normal

@@ -1,0 +1,7 @@
+# The integration was verified with these versions on Python 3.10.
+pyexocross==1.1.9
+numpy>=1.23
+pandas>=1.5
+matplotlib>=3.5
+PyYAML>=5.4
+pytest>=7

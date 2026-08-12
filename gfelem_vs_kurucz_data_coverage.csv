@@ -1,0 +1,309 @@
+﻿No.,Species,Dir Name,Element,Atomic Number Z,Ion Stage,Kurucz Code,In ref,In Kurucz-data,Status,Note
+1,He I,He-I,He,2,I,2.00,Yes,No,Missing from Kurucz-data,element has no folder
+2,Li I,Li-I,Li,3,I,3.00,Yes,Yes,Covered,
+3,Li II,Li-II,Li,3,II,3.01,Yes,No,Missing from Kurucz-data,ion stage absent
+4,Be I,Be-I,Be,4,I,4.00,Yes,Yes,Covered,
+5,Be II,Be-II,Be,4,II,4.01,Yes,Yes,Covered,
+6,Be III,Be-III,Be,4,III,4.02,Yes,No,Missing from Kurucz-data,ion stage absent
+7,B I,B-I,B,5,I,5.00,Yes,Yes,Covered,
+8,B II,B-II,B,5,II,5.01,Yes,Yes,Covered,
+9,B III,B-III,B,5,III,5.02,Yes,Yes,Covered,
+10,B IV,B-IV,B,5,IV,5.03,Yes,No,Missing from Kurucz-data,ion stage absent
+11,C I,C-I,C,6,I,6.00,Yes,Yes,Covered,
+12,C II,C-II,C,6,II,6.01,Yes,Yes,Covered,
+13,C III,C-III,C,6,III,6.02,Yes,Yes,Covered,
+14,C IV,C-IV,C,6,IV,6.03,Yes,Yes,Covered,
+15,N I,N-I,N,7,I,7.00,Yes,Yes,Covered,
+16,N II,N-II,N,7,II,7.01,Yes,Yes,Covered,
+17,N III,N-III,N,7,III,7.02,Yes,Yes,Covered,
+18,N IV,N-IV,N,7,IV,7.03,Yes,Yes,Covered,
+19,N V,N-V,N,7,V,7.04,Yes,Yes,Covered,
+20,N VI,N-VI,N,7,VI,7.05,Yes,No,Missing from Kurucz-data,ion stage absent
+21,O I,O-I,O,8,I,8.00,Yes,Yes,Covered,
+22,O II,O-II,O,8,II,8.01,Yes,Yes,Covered,
+23,O III,O-III,O,8,III,8.02,Yes,Yes,Covered,
+24,O IV,O-IV,O,8,IV,8.03,Yes,Yes,Covered,
+25,O V,O-V,O,8,V,8.04,Yes,Yes,Covered,
+26,O VI,O-VI,O,8,VI,8.05,Yes,Yes,Covered,
+27,F I,F-I,F,9,I,9.00,Yes,Yes,Covered,
+28,F II,F-II,F,9,II,9.01,Yes,Yes,Covered,
+29,F III,F-III,F,9,III,9.02,Yes,Yes,Covered,
+30,F IV,F-IV,F,9,IV,9.03,Yes,Yes,Covered,
+31,F V,F-V,F,9,V,9.04,Yes,Yes,Covered,
+32,F VI,F-VI,F,9,VI,9.05,Yes,Yes,Covered,
+33,Ne I,Ne-I,Ne,10,I,10.00,Yes,Yes,Covered,
+34,Ne II,Ne-II,Ne,10,II,10.01,Yes,Yes,Covered,
+35,Ne III,Ne-III,Ne,10,III,10.02,Yes,Yes,Covered,
+36,Ne IV,Ne-IV,Ne,10,IV,10.03,Yes,Yes,Covered,
+37,Ne V,Ne-V,Ne,10,V,10.04,Yes,Yes,Covered,
+38,Ne VI,Ne-VI,Ne,10,VI,10.05,Yes,Yes,Covered,
+39,Na I,Na-I,Na,11,I,11.00,Yes,Yes,Covered,
+40,Na II,Na-II,Na,11,II,11.01,Yes,Yes,Covered,
+41,Na III,Na-III,Na,11,III,11.02,Yes,Yes,Covered,
+42,Na IV,Na-IV,Na,11,IV,11.03,Yes,Yes,Covered,
+43,Na V,Na-V,Na,11,V,11.04,Yes,Yes,Covered,
+44,Na VI,Na-VI,Na,11,VI,11.05,Yes,Yes,Covered,
+45,Mg I,Mg-I,Mg,12,I,12.00,Yes,Yes,Covered,
+46,Mg II,Mg-II,Mg,12,II,12.01,Yes,Yes,Covered,
+47,Mg III,Mg-III,Mg,12,III,12.02,Yes,Yes,Covered,
+48,Mg IV,Mg-IV,Mg,12,IV,12.03,Yes,Yes,Covered,
+49,Mg V,Mg-V,Mg,12,V,12.04,Yes,Yes,Covered,
+50,Mg VI,Mg-VI,Mg,12,VI,12.05,Yes,Yes,Covered,
+51,Al I,Al-I,Al,13,I,13.00,Yes,Yes,Covered,
+52,Al II,Al-II,Al,13,II,13.01,Yes,Yes,Covered,
+53,Al III,Al-III,Al,13,III,13.02,Yes,Yes,Covered,
+54,Al IV,Al-IV,Al,13,IV,13.03,Yes,Yes,Covered,
+55,Al V,Al-V,Al,13,V,13.04,Yes,Yes,Covered,
+56,Al VI,Al-VI,Al,13,VI,13.05,Yes,Yes,Covered,
+57,Si I,Si-I,Si,14,I,14.00,Yes,Yes,Covered,
+58,Si II,Si-II,Si,14,II,14.01,Yes,Yes,Covered,
+59,Si III,Si-III,Si,14,III,14.02,Yes,Yes,Covered,
+60,Si IV,Si-IV,Si,14,IV,14.03,Yes,Yes,Covered,
+61,Si V,Si-V,Si,14,V,14.04,Yes,Yes,Covered,
+62,Si VI,Si-VI,Si,14,VI,14.05,Yes,Yes,Covered,
+63,P I,P-I,P,15,I,15.00,Yes,Yes,Covered,
+64,P II,P-II,P,15,II,15.01,Yes,Yes,Covered,
+65,P III,P-III,P,15,III,15.02,Yes,Yes,Covered,
+66,P IV,P-IV,P,15,IV,15.03,Yes,Yes,Covered,
+67,P V,P-V,P,15,V,15.04,Yes,Yes,Covered,
+68,P VI,P-VI,P,15,VI,15.05,Yes,Yes,Covered,
+69,S I,S-I,S,16,I,16.00,Yes,Yes,Covered,
+70,S II,S-II,S,16,II,16.01,Yes,Yes,Covered,
+71,S III,S-III,S,16,III,16.02,Yes,Yes,Covered,
+72,S IV,S-IV,S,16,IV,16.03,Yes,Yes,Covered,
+73,S V,S-V,S,16,V,16.04,Yes,Yes,Covered,
+74,S VI,S-VI,S,16,VI,16.05,Yes,Yes,Covered,
+75,Cl I,Cl-I,Cl,17,I,17.00,Yes,Yes,Covered,
+76,Cl II,Cl-II,Cl,17,II,17.01,Yes,Yes,Covered,
+77,Cl III,Cl-III,Cl,17,III,17.02,Yes,Yes,Covered,
+78,Cl IV,Cl-IV,Cl,17,IV,17.03,Yes,No,Missing from Kurucz-data,ion stage absent
+79,Cl V,Cl-V,Cl,17,V,17.04,Yes,Yes,Covered,
+80,Cl VI,Cl-VI,Cl,17,VI,17.05,No,Yes,Extra in Kurucz-data (not in ref),
+81,Ar I,Ar-I,Ar,18,I,18.00,Yes,Yes,Covered,
+82,Ar II,Ar-II,Ar,18,II,18.01,Yes,Yes,Covered,
+83,Ar III,Ar-III,Ar,18,III,18.02,Yes,Yes,Covered,
+84,Ar IV,Ar-IV,Ar,18,IV,18.03,Yes,Yes,Covered,
+85,Ar V,Ar-V,Ar,18,V,18.04,Yes,Yes,Covered,
+86,Ar VI,Ar-VI,Ar,18,VI,18.05,No,Yes,Extra in Kurucz-data (not in ref),
+87,K I,K-I,K,19,I,19.00,Yes,Yes,Covered,
+88,K II,K-II,K,19,II,19.01,Yes,Yes,Covered,
+89,K III,K-III,K,19,III,19.02,Yes,Yes,Covered,
+90,K IV,K-IV,K,19,IV,19.03,Yes,Yes,Covered,
+91,K V,K-V,K,19,V,19.04,Yes,Yes,Covered,
+92,K VI,K-VI,K,19,VI,19.05,No,Yes,Extra in Kurucz-data (not in ref),
+93,Ca I,Ca-I,Ca,20,I,20.00,Yes,Yes,Covered,
+94,Ca II,Ca-II,Ca,20,II,20.01,Yes,Yes,Covered,
+95,Ca III,Ca-III,Ca,20,III,20.02,Yes,Yes,Covered,
+96,Ca IV,Ca-IV,Ca,20,IV,20.03,Yes,Yes,Covered,
+97,Ca V,Ca-V,Ca,20,V,20.04,Yes,Yes,Covered,
+98,Ca VI,Ca-VI,Ca,20,VI,20.05,Yes,Yes,Covered,
+99,Ca VII,Ca-VII,Ca,20,VII,20.06,Yes,Yes,Covered,
+100,Ca VIII,Ca-VIII,Ca,20,VIII,20.07,Yes,Yes,Covered,
+101,Ca IX,Ca-IX,Ca,20,IX,20.08,Yes,Yes,Covered,
+102,Sc I,Sc-I,Sc,21,I,21.00,Yes,Yes,Covered,
+103,Sc II,Sc-II,Sc,21,II,21.01,Yes,Yes,Covered,
+104,Sc III,Sc-III,Sc,21,III,21.02,Yes,Yes,Covered,
+105,Sc IV,Sc-IV,Sc,21,IV,21.03,Yes,Yes,Covered,
+106,Sc V,Sc-V,Sc,21,V,21.04,Yes,Yes,Covered,
+107,Sc VI,Sc-VI,Sc,21,VI,21.05,Yes,Yes,Covered,
+108,Sc VII,Sc-VII,Sc,21,VII,21.06,Yes,Yes,Covered,
+109,Sc VIII,Sc-VIII,Sc,21,VIII,21.07,Yes,Yes,Covered,
+110,Sc IX,Sc-IX,Sc,21,IX,21.08,Yes,Yes,Covered,
+111,Ti I,Ti-I,Ti,22,I,22.00,Yes,Yes,Covered,
+112,Ti II,Ti-II,Ti,22,II,22.01,Yes,Yes,Covered,
+113,Ti III,Ti-III,Ti,22,III,22.02,Yes,Yes,Covered,
+114,Ti IV,Ti-IV,Ti,22,IV,22.03,Yes,Yes,Covered,
+115,Ti V,Ti-V,Ti,22,V,22.04,Yes,Yes,Covered,
+116,Ti VI,Ti-VI,Ti,22,VI,22.05,Yes,Yes,Covered,
+117,Ti VII,Ti-VII,Ti,22,VII,22.06,Yes,Yes,Covered,
+118,Ti VIII,Ti-VIII,Ti,22,VIII,22.07,Yes,Yes,Covered,
+119,Ti IX,Ti-IX,Ti,22,IX,22.08,Yes,Yes,Covered,
+120,V I,V-I,V,23,I,23.00,Yes,Yes,Covered,
+121,V II,V-II,V,23,II,23.01,Yes,Yes,Covered,
+122,V III,V-III,V,23,III,23.02,Yes,Yes,Covered,
+123,V IV,V-IV,V,23,IV,23.03,Yes,Yes,Covered,
+124,V V,V-V,V,23,V,23.04,Yes,Yes,Covered,
+125,V VI,V-VI,V,23,VI,23.05,Yes,Yes,Covered,
+126,V VII,V-VII,V,23,VII,23.06,Yes,Yes,Covered,
+127,V VIII,V-VIII,V,23,VIII,23.07,Yes,Yes,Covered,
+128,V IX,V-IX,V,23,IX,23.08,Yes,Yes,Covered,
+129,Cr I,Cr-I,Cr,24,I,24.00,Yes,Yes,Covered,
+130,Cr II,Cr-II,Cr,24,II,24.01,Yes,Yes,Covered,
+131,Cr III,Cr-III,Cr,24,III,24.02,Yes,Yes,Covered,
+132,Cr IV,Cr-IV,Cr,24,IV,24.03,Yes,Yes,Covered,
+133,Cr V,Cr-V,Cr,24,V,24.04,Yes,Yes,Covered,
+134,Cr VI,Cr-VI,Cr,24,VI,24.05,Yes,Yes,Covered,
+135,Cr VII,Cr-VII,Cr,24,VII,24.06,Yes,Yes,Covered,
+136,Cr VIII,Cr-VIII,Cr,24,VIII,24.07,Yes,Yes,Covered,
+137,Cr IX,Cr-IX,Cr,24,IX,24.08,Yes,Yes,Covered,
+138,Mn I,Mn-I,Mn,25,I,25.00,Yes,Yes,Covered,
+139,Mn II,Mn-II,Mn,25,II,25.01,Yes,Yes,Covered,
+140,Mn III,Mn-III,Mn,25,III,25.02,Yes,Yes,Covered,
+141,Mn IV,Mn-IV,Mn,25,IV,25.03,Yes,Yes,Covered,
+142,Mn V,Mn-V,Mn,25,V,25.04,Yes,Yes,Covered,
+143,Mn VI,Mn-VI,Mn,25,VI,25.05,Yes,Yes,Covered,
+144,Mn VII,Mn-VII,Mn,25,VII,25.06,Yes,Yes,Covered,
+145,Mn VIII,Mn-VIII,Mn,25,VIII,25.07,Yes,Yes,Covered,
+146,Mn IX,Mn-IX,Mn,25,IX,25.08,Yes,Yes,Covered,
+147,Fe I,Fe-I,Fe,26,I,26.00,Yes,Yes,Covered,
+148,Fe II,Fe-II,Fe,26,II,26.01,Yes,Yes,Covered,
+149,Fe III,Fe-III,Fe,26,III,26.02,Yes,Yes,Covered,
+150,Fe IV,Fe-IV,Fe,26,IV,26.03,Yes,Yes,Covered,
+151,Fe V,Fe-V,Fe,26,V,26.04,Yes,Yes,Covered,
+152,Fe VI,Fe-VI,Fe,26,VI,26.05,Yes,Yes,Covered,
+153,Fe VII,Fe-VII,Fe,26,VII,26.06,Yes,Yes,Covered,
+154,Fe VIII,Fe-VIII,Fe,26,VIII,26.07,Yes,Yes,Covered,
+155,Fe IX,Fe-IX,Fe,26,IX,26.08,Yes,Yes,Covered,
+156,Fe X,Fe-X,Fe,26,X,26.09,No,Yes,Extra in Kurucz-data (not in ref),
+157,Co I,Co-I,Co,27,I,27.00,Yes,Yes,Covered,
+158,Co II,Co-II,Co,27,II,27.01,Yes,Yes,Covered,
+159,Co III,Co-III,Co,27,III,27.02,Yes,Yes,Covered,
+160,Co IV,Co-IV,Co,27,IV,27.03,Yes,Yes,Covered,
+161,Co V,Co-V,Co,27,V,27.04,Yes,Yes,Covered,
+162,Co VI,Co-VI,Co,27,VI,27.05,Yes,Yes,Covered,
+163,Co VII,Co-VII,Co,27,VII,27.06,Yes,Yes,Covered,
+164,Co VIII,Co-VIII,Co,27,VIII,27.07,Yes,Yes,Covered,
+165,Co IX,Co-IX,Co,27,IX,27.08,Yes,Yes,Covered,
+166,Ni I,Ni-I,Ni,28,I,28.00,Yes,Yes,Covered,
+167,Ni II,Ni-II,Ni,28,II,28.01,Yes,Yes,Covered,
+168,Ni III,Ni-III,Ni,28,III,28.02,Yes,Yes,Covered,
+169,Ni IV,Ni-IV,Ni,28,IV,28.03,Yes,Yes,Covered,
+170,Ni V,Ni-V,Ni,28,V,28.04,Yes,Yes,Covered,
+171,Ni VI,Ni-VI,Ni,28,VI,28.05,Yes,Yes,Covered,
+172,Ni VII,Ni-VII,Ni,28,VII,28.06,Yes,Yes,Covered,
+173,Ni VIII,Ni-VIII,Ni,28,VIII,28.07,Yes,Yes,Covered,
+174,Ni IX,Ni-IX,Ni,28,IX,28.08,Yes,Yes,Covered,
+175,Ni X,Ni-X,Ni,28,X,28.09,No,Yes,Extra in Kurucz-data (not in ref),
+176,Cu I,Cu-I,Cu,29,I,29.00,Yes,Yes,Covered,
+177,Cu II,Cu-II,Cu,29,II,29.01,Yes,Yes,Covered,
+178,Cu III,Cu-III,Cu,29,III,29.02,No,Yes,Extra in Kurucz-data (not in ref),
+179,Cu IV,Cu-IV,Cu,29,IV,29.03,No,Yes,Extra in Kurucz-data (not in ref),
+180,Cu V,Cu-V,Cu,29,V,29.04,No,Yes,Extra in Kurucz-data (not in ref),
+181,Cu VI,Cu-VI,Cu,29,VI,29.05,No,Yes,Extra in Kurucz-data (not in ref),
+182,Cu VII,Cu-VII,Cu,29,VII,29.06,No,Yes,Extra in Kurucz-data (not in ref),
+183,Cu VIII,Cu-VIII,Cu,29,VIII,29.07,No,Yes,Extra in Kurucz-data (not in ref),
+184,Cu IX,Cu-IX,Cu,29,IX,29.08,No,Yes,Extra in Kurucz-data (not in ref),
+185,Cu X,Cu-X,Cu,29,X,29.09,No,Yes,Extra in Kurucz-data (not in ref),
+186,Zn I,Zn-I,Zn,30,I,30.00,Yes,Yes,Covered,
+187,Zn II,Zn-II,Zn,30,II,30.01,Yes,Yes,Covered,
+188,Zn III,Zn-III,Zn,30,III,30.02,Yes,Yes,Covered,
+189,Zn IV,Zn-IV,Zn,30,IV,30.03,No,Yes,Extra in Kurucz-data (not in ref),
+190,Zn V,Zn-V,Zn,30,V,30.04,No,Yes,Extra in Kurucz-data (not in ref),
+191,Zn VI,Zn-VI,Zn,30,VI,30.05,No,Yes,Extra in Kurucz-data (not in ref),
+192,Zn VII,Zn-VII,Zn,30,VII,30.06,No,Yes,Extra in Kurucz-data (not in ref),
+193,Zn VIII,Zn-VIII,Zn,30,VIII,30.07,No,Yes,Extra in Kurucz-data (not in ref),
+194,Zn IX,Zn-IX,Zn,30,IX,30.08,No,Yes,Extra in Kurucz-data (not in ref),
+195,Ga I,Ga-I,Ga,31,I,31.00,Yes,No,Missing from Kurucz-data,element has no folder
+196,Ga II,Ga-II,Ga,31,II,31.01,Yes,No,Missing from Kurucz-data,element has no folder
+197,Ge I,Ge-I,Ge,32,I,32.00,Yes,No,Missing from Kurucz-data,element has no folder
+198,Ge II,Ge-II,Ge,32,II,32.01,Yes,No,Missing from Kurucz-data,element has no folder
+199,As I,As-I,As,33,I,33.00,Yes,No,Missing from Kurucz-data,element has no folder
+200,Se I,Se-I,Se,34,I,34.00,Yes,No,Missing from Kurucz-data,element has no folder
+201,Rb I,Rb-I,Rb,37,I,37.00,Yes,No,Missing from Kurucz-data,element has no folder
+202,Sr I,Sr-I,Sr,38,I,38.00,Yes,Yes,Covered,
+203,Sr II,Sr-II,Sr,38,II,38.01,Yes,Yes,Covered,
+204,Sr III,Sr-III,Sr,38,III,38.02,No,Yes,Extra in Kurucz-data (not in ref),
+205,Sr IV,Sr-IV,Sr,38,IV,38.03,No,Yes,Extra in Kurucz-data (not in ref),
+206,Sr V,Sr-V,Sr,38,V,38.04,No,Yes,Extra in Kurucz-data (not in ref),
+207,Y I,Y-I,Y,39,I,39.00,Yes,Yes,Covered,
+208,Y II,Y-II,Y,39,II,39.01,Yes,Yes,Covered,
+209,Y V,Y-V,Y,39,V,39.04,No,Yes,Extra in Kurucz-data (not in ref),
+210,Zr I,Zr-I,Zr,40,I,40.00,Yes,Yes,Covered,
+211,Zr II,Zr-II,Zr,40,II,40.01,Yes,Yes,Covered,
+212,Zr III,Zr-III,Zr,40,III,40.02,No,Yes,Extra in Kurucz-data (not in ref),
+213,Zr IV,Zr-IV,Zr,40,IV,40.03,No,Yes,Extra in Kurucz-data (not in ref),
+214,Zr V,Zr-V,Zr,40,V,40.04,No,Yes,Extra in Kurucz-data (not in ref),
+215,Nb I,Nb-I,Nb,41,I,41.00,Yes,Yes,Covered,
+216,Nb II,Nb-II,Nb,41,II,41.01,Yes,Yes,Covered,
+217,Nb III,Nb-III,Nb,41,III,41.02,No,Yes,Extra in Kurucz-data (not in ref),
+218,Nb IV,Nb-IV,Nb,41,IV,41.03,No,Yes,Extra in Kurucz-data (not in ref),
+219,Nb V,Nb-V,Nb,41,V,41.04,No,Yes,Extra in Kurucz-data (not in ref),
+220,Mo I,Mo-I,Mo,42,I,42.00,Yes,Yes,Covered,
+221,Mo II,Mo-II,Mo,42,II,42.01,Yes,Yes,Covered,
+222,Mo III,Mo-III,Mo,42,III,42.02,No,Yes,Extra in Kurucz-data (not in ref),
+223,Mo IV,Mo-IV,Mo,42,IV,42.03,No,Yes,Extra in Kurucz-data (not in ref),
+224,Tc I,Tc-I,Tc,43,I,43.00,No,Yes,Extra in Kurucz-data (not in ref),
+225,Tc II,Tc-II,Tc,43,II,43.01,No,Yes,Extra in Kurucz-data (not in ref),
+226,Tc III,Tc-III,Tc,43,III,43.02,No,Yes,Extra in Kurucz-data (not in ref),
+227,Tc IV,Tc-IV,Tc,43,IV,43.03,No,Yes,Extra in Kurucz-data (not in ref),
+228,Tc V,Tc-V,Tc,43,V,43.04,No,Yes,Extra in Kurucz-data (not in ref),
+229,Ru I,Ru-I,Ru,44,I,44.00,Yes,Yes,Covered,
+230,Ru II,Ru-II,Ru,44,II,44.01,Yes,Yes,Covered,
+231,Ru III,Ru-III,Ru,44,III,44.02,No,Yes,Extra in Kurucz-data (not in ref),
+232,Ru IV,Ru-IV,Ru,44,IV,44.03,No,Yes,Extra in Kurucz-data (not in ref),
+233,Ru V,Ru-V,Ru,44,V,44.04,No,Yes,Extra in Kurucz-data (not in ref),
+234,Rh I,Rh-I,Rh,45,I,45.00,Yes,Yes,Covered,
+235,Rh II,Rh-II,Rh,45,II,45.01,Yes,Yes,Covered,
+236,Rh III,Rh-III,Rh,45,III,45.02,No,Yes,Extra in Kurucz-data (not in ref),
+237,Rh IV,Rh-IV,Rh,45,IV,45.03,No,Yes,Extra in Kurucz-data (not in ref),
+238,Rh V,Rh-V,Rh,45,V,45.04,No,Yes,Extra in Kurucz-data (not in ref),
+239,Pd I,Pd-I,Pd,46,I,46.00,Yes,Yes,Covered,
+240,Pd II,Pd-II,Pd,46,II,46.01,Yes,Yes,Covered,
+241,Pd III,Pd-III,Pd,46,III,46.02,No,Yes,Extra in Kurucz-data (not in ref),
+242,Pd IV,Pd-IV,Pd,46,IV,46.03,No,Yes,Extra in Kurucz-data (not in ref),
+243,Pd V,Pd-V,Pd,46,V,46.04,No,Yes,Extra in Kurucz-data (not in ref),
+244,Ag I,Ag-I,Ag,47,I,47.00,Yes,Yes,Covered,
+245,Ag II,Ag-II,Ag,47,II,47.01,Yes,No,Missing from Kurucz-data,ion stage absent
+246,Cd I,Cd-I,Cd,48,I,48.00,Yes,No,Missing from Kurucz-data,element has no folder
+247,Cd II,Cd-II,Cd,48,II,48.01,Yes,No,Missing from Kurucz-data,element has no folder
+248,In I,In-I,In,49,I,49.00,Yes,No,Missing from Kurucz-data,element has no folder
+249,In II,In-II,In,49,II,49.01,Yes,No,Missing from Kurucz-data,element has no folder
+250,Sn I,Sn-I,Sn,50,I,50.00,Yes,No,Missing from Kurucz-data,element has no folder
+251,Sn II,Sn-II,Sn,50,II,50.01,Yes,No,Missing from Kurucz-data,element has no folder
+252,Sb I,Sb-I,Sb,51,I,51.00,Yes,No,Missing from Kurucz-data,element has no folder
+253,Te I,Te-I,Te,52,I,52.00,Yes,No,Missing from Kurucz-data,element has no folder
+254,Cs I,Cs-I,Cs,55,I,55.00,Yes,No,Missing from Kurucz-data,element has no folder
+255,Ba I,Ba-I,Ba,56,I,56.00,Yes,Yes,Covered,
+256,Ba II,Ba-II,Ba,56,II,56.01,Yes,Yes,Covered,
+257,La I,La-I,La,57,I,57.00,Yes,No,Missing from Kurucz-data,element has no folder
+258,La II,La-II,La,57,II,57.01,Yes,No,Missing from Kurucz-data,element has no folder
+259,Ce I,Ce-I,Ce,58,I,58.00,Yes,No,Missing from Kurucz-data,element has no folder
+260,Ce II,Ce-II,Ce,58,II,58.01,Yes,No,Missing from Kurucz-data,element has no folder
+261,Pr I,Pr-I,Pr,59,I,59.00,Yes,No,Missing from Kurucz-data,element has no folder
+262,Pr II,Pr-II,Pr,59,II,59.01,Yes,No,Missing from Kurucz-data,element has no folder
+263,Nd I,Nd-I,Nd,60,I,60.00,Yes,No,Missing from Kurucz-data,element has no folder
+264,Nd II,Nd-II,Nd,60,II,60.01,Yes,No,Missing from Kurucz-data,element has no folder
+265,Sm I,Sm-I,Sm,62,I,62.00,Yes,No,Missing from Kurucz-data,element has no folder
+266,Sm II,Sm-II,Sm,62,II,62.01,Yes,No,Missing from Kurucz-data,element has no folder
+267,Eu I,Eu-I,Eu,63,I,63.00,Yes,No,Missing from Kurucz-data,element has no folder
+268,Eu II,Eu-II,Eu,63,II,63.01,Yes,No,Missing from Kurucz-data,element has no folder
+269,Gd I,Gd-I,Gd,64,I,64.00,Yes,No,Missing from Kurucz-data,element has no folder
+270,Gd II,Gd-II,Gd,64,II,64.01,Yes,No,Missing from Kurucz-data,element has no folder
+271,Tb I,Tb-I,Tb,65,I,65.00,Yes,No,Missing from Kurucz-data,element has no folder
+272,Tb II,Tb-II,Tb,65,II,65.01,Yes,No,Missing from Kurucz-data,element has no folder
+273,Dy I,Dy-I,Dy,66,I,66.00,Yes,No,Missing from Kurucz-data,element has no folder
+274,Dy II,Dy-II,Dy,66,II,66.01,Yes,No,Missing from Kurucz-data,element has no folder
+275,Ho I,Ho-I,Ho,67,I,67.00,Yes,No,Missing from Kurucz-data,element has no folder
+276,Ho II,Ho-II,Ho,67,II,67.01,Yes,No,Missing from Kurucz-data,element has no folder
+277,Er I,Er-I,Er,68,I,68.00,Yes,No,Missing from Kurucz-data,element has no folder
+278,Er II,Er-II,Er,68,II,68.01,Yes,No,Missing from Kurucz-data,element has no folder
+279,Tm I,Tm-I,Tm,69,I,69.00,Yes,No,Missing from Kurucz-data,element has no folder
+280,Tm II,Tm-II,Tm,69,II,69.01,Yes,No,Missing from Kurucz-data,element has no folder
+281,Yb I,Yb-I,Yb,70,I,70.00,Yes,No,Missing from Kurucz-data,element has no folder
+282,Yb II,Yb-II,Yb,70,II,70.01,Yes,No,Missing from Kurucz-data,element has no folder
+283,Lu I,Lu-I,Lu,71,I,71.00,Yes,No,Missing from Kurucz-data,element has no folder
+284,Lu II,Lu-II,Lu,71,II,71.01,Yes,No,Missing from Kurucz-data,element has no folder
+285,Hf I,Hf-I,Hf,72,I,72.00,Yes,No,Missing from Kurucz-data,element has no folder
+286,Hf II,Hf-II,Hf,72,II,72.01,Yes,No,Missing from Kurucz-data,element has no folder
+287,Ta I,Ta-I,Ta,73,I,73.00,Yes,No,Missing from Kurucz-data,element has no folder
+288,Ta II,Ta-II,Ta,73,II,73.01,Yes,No,Missing from Kurucz-data,element has no folder
+289,W I,W-I,W,74,I,74.00,Yes,No,Missing from Kurucz-data,element has no folder
+290,W II,W-II,W,74,II,74.01,Yes,No,Missing from Kurucz-data,element has no folder
+291,Re I,Re-I,Re,75,I,75.00,Yes,No,Missing from Kurucz-data,element has no folder
+292,Re II,Re-II,Re,75,II,75.01,Yes,No,Missing from Kurucz-data,element has no folder
+293,Os I,Os-I,Os,76,I,76.00,Yes,No,Missing from Kurucz-data,element has no folder
+294,Os II,Os-II,Os,76,II,76.01,Yes,No,Missing from Kurucz-data,element has no folder
+295,Ir I,Ir-I,Ir,77,I,77.00,Yes,No,Missing from Kurucz-data,element has no folder
+296,Ir II,Ir-II,Ir,77,II,77.01,Yes,No,Missing from Kurucz-data,element has no folder
+297,Pt I,Pt-I,Pt,78,I,78.00,Yes,No,Missing from Kurucz-data,element has no folder
+298,Au I,Au-I,Au,79,I,79.00,Yes,No,Missing from Kurucz-data,element has no folder
+299,Hg I,Hg-I,Hg,80,I,80.00,Yes,No,Missing from Kurucz-data,element has no folder
+300,Hg II,Hg-II,Hg,80,II,80.01,Yes,No,Missing from Kurucz-data,element has no folder
+301,Tl I,Tl-I,Tl,81,I,81.00,Yes,No,Missing from Kurucz-data,element has no folder
+302,Pb I,Pb-I,Pb,82,I,82.00,Yes,No,Missing from Kurucz-data,element has no folder
+303,Pb II,Pb-II,Pb,82,II,82.01,Yes,No,Missing from Kurucz-data,element has no folder
+304,Bi I,Bi-I,Bi,83,I,83.00,Yes,No,Missing from Kurucz-data,element has no folder
+305,Th I,Th-I,Th,90,I,90.00,Yes,No,Missing from Kurucz-data,element has no folder
+306,Th II,Th-II,Th,90,II,90.01,Yes,No,Missing from Kurucz-data,element has no folder
+307,U I,U-I,U,92,I,92.00,Yes,No,Missing from Kurucz-data,element has no folder
+308,U II,U-II,U,92,II,92.01,Yes,No,Missing from Kurucz-data,element has no folder
